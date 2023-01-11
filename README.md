@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Santiago Beltran Marin
-- 👀 I’m interested in Projects that involve programming in Java since it is what I specialize in the most
-- 🌱 I’m currently learning advanced database management
-- 💞️ I’m looking to collaborate on jobs that allow me to improve and expand my knowledge
-- 📫 How to reach me by email
-
-<!---
-Santiagob1/Santiagob1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola, Soy Santiago.
+Soy Un desarrollador junior que se especializa en el lenguaje de programacion JAVA.
+actualmente estoy cursando los ultimos semestres de Ingenieria en Sistemas y Computacion y aqui comparto un poco de mis proyectos.
